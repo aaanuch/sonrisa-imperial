@@ -1,0 +1,5 @@
+# Configuración local de Claude Code
+.claude/
+
+# Accesos directos de Windows
+*.url
